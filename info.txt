@@ -1,0 +1,1 @@
+il grafo è semplice con archi pesati
