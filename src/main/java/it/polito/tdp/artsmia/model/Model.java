@@ -96,6 +96,11 @@ public class Model {
 		return this.grafo.edgeSet().size();
 	}
 	
+	public Graph<ArtObject,DefaultWeightedEdge> getGrafo() {
+		
+		return this.grafo;
+	}
+	
 	
 	
 	
